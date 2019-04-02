@@ -1,2 +1,5 @@
 User-agent: *
+Disallow: /Error.html
 Disallow: /favicon.ico
+
+Sitemap:https://xxxidlpw.github.io/sitemap.xml
